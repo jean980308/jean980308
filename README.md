@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jean980308
 
 - 👀 I’m interested in playing computer games  
-      my steam name <TW>jedi master
+      my steam name <TW>jedi master https://steamcommunity.com/profiles/76561198042000955/
       my youtube 皮洛士 https://www.youtube.com/channel/UCZg35YDrPEkOtIqyKxxfd-Q
-      
-- 🌱 I’m currently learning  analog circuit design
+      my Linkdin 曾祥鈞 www.linkedin.com/in/twjedimaster-152597171
+- 🌱 I’m currently learning  analog circuit design  /Mixed Signal design
 
 - 💞️ I’m looking to collaborate on analog circuit design and i will research about this field
 
