@@ -9,6 +9,9 @@
      
 -   my Linkdin 曾祥鈞
     www.linkedin.com/in/twjedimaster-152597171
+     
+-   my facebokk 鋼鋼彈
+    https://www.facebook.com/gang.g.dan/
       
 - 🌱 I’m currently learning  analog circuit design  /Mixed Signal design
 
