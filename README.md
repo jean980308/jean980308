@@ -4,14 +4,13 @@
 -    my steam name <TW>jedi master 
      https://steamcommunity.com/profiles/76561198042000955/
      
--    my youtube 皮洛士 
+-    my youtube 
     https://www.youtube.com/channel/UCZg35YDrPEkOtIqyKxxfd-Q
      
--   my Linkdin 曾祥鈞
+-   my Linkdin
     www.linkedin.com/in/twjedimaster-152597171
      
--   my facebokk 鋼鋼彈
-    https://www.facebook.com/gang.g.dan/
+- 
       
 - 🌱 I’m currently learning  analog circuit design  /Mixed Signal design
 
