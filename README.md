@@ -7,9 +7,6 @@
 -    my youtube 
     https://www.youtube.com/channel/UCZg35YDrPEkOtIqyKxxfd-Q
      
--   my Linkdin
-    www.linkedin.com/in/twjedimaster-152597171
-     
 - 
       
 - 🌱 I’m currently learning  analog circuit design  /Mixed Signal design
