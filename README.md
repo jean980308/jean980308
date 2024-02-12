@@ -6,8 +6,8 @@
      
 -    my youtube 
     https://www.youtube.com/channel/UCZg35YDrPEkOtIqyKxxfd-Q
-     
-- 
+-    my bilibili
+    https://space.bilibili.com/2087584969
       
 - 🌱 I’m currently learning  analog circuit design  /Mixed Signal design
 
